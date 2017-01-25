@@ -314,6 +314,7 @@ export default React.createClass({
   render(indexOfPost) {
     return (
       <div>
+        <Header />
         <section className="visible"
                  ref="listOfPost">
           <h1 className="postHistoryTitle">List of Posts</h1>
@@ -388,6 +389,7 @@ export default React.createClass({
           </div>
           </div>
         </section>
+       <Footer />
       </div>
     )
   }
