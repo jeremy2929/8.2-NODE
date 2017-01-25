@@ -7,6 +7,9 @@
     "start": "node index.js",
     "heroku-postbuild": "webpack"
   },
+  "engines": {
+  "npm": "4.1.1"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
