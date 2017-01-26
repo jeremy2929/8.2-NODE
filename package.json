@@ -46,5 +46,9 @@
     "webpack": "^1.14.0",
     "jquery": "^3.1.1",
     "valid-url": "^1.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy2929/8.2-NODE"
   }
 }
